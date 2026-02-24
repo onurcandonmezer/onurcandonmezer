@@ -139,7 +139,7 @@ My focus areas include **LLM orchestration**, **AI governance & compliance**, **
 ### 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/onurcandonmezer/">
+  <a href="https://www.linkedin.com/in/onurcan-d%C3%B6nmezer-45329015a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:onurcan.donmezer@gmail.com">
